@@ -1,7 +1,5 @@
 ### Привет 👋
 
-Занимаюсь разработкой на Java. Обучался на проекте [Job4j](https://job4j.ru/).
-
 #### Стек технологий:
 ![](https://img.shields.io/badge/Java-%3E%3D8-orange)
 ![](https://img.shields.io/badge/Spring-%3E%3D5-green)
