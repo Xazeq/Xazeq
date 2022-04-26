@@ -17,7 +17,7 @@
 1. [Сервис для сокращения ссылок](https://github.com/Xazeq/job4j_url_shortcut) (JDK14, Maven, REST API, Spring Boot, Spring Data, PostgreSQL, Hibernate, JWT)
 2. [Чат на Rest API](https://github.com/Xazeq/job4j_chat) (JDK14, Maven, Spring Boot, Spring Data, PostgreSQL, Hibernate, REST API, JWT)
 3. [Интернет форум](https://github.com/Xazeq/job4j_forum) (JDK14, Maven, Spring Boot, PostgreSQL, Spring Data, Hibernate) Приложение развернуто на [Heroku](https://gentle-island-48361.herokuapp.com/)
-4. [MVC Веб-приложение для учета автомобильных инцедентов. (Spring MVC, Hibernate)](https://github.com/Xazeq/job4j_car_accident) (JDK14, Maven, Spring Boot, PostgreSQL, Spring Data, Hibernate)
+4. [MVC Веб-приложение для учета автомобильных инцедентов](https://github.com/Xazeq/job4j_car_accident) (JDK14, Maven, Spring Boot, PostgreSQL, Spring Data, Hibernate)
 5. [Веб-приложение - площадка по продаже авто](https://github.com/Xazeq/job4j_cars) (JDK14, Maven, PostgreSQL, Java Servlet, Junit)
 6. [Веб-Приложение TODO List - планировщик задач](https://github.com/Xazeq/job4j_todo) (JDK14, Maven, Java Servlet, HTML, PostgreSQL)
 7. [Веб-Приложение "Кинотеатр", с возможностью бронирования мест](https://github.com/Xazeq/job4j_cinema) (JDK14, Maven, Java Servlet, HTML, PostgreSQL, BOOTSTRAP, JS, JQUERY, AJAX)
